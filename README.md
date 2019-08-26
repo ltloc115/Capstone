@@ -9,4 +9,4 @@ The bluTest.ino file contains the code for communication with the SD card and st
 Phase 3 folder contains the combined code of all the members for the device. <br><br>
 To replicate the the demonstration, all the necessary libraries are in the libraries folder. Some components can be seen in the newSchematic.png. The GPS-GSM module was the FONA 808 from Adafruit. <br><br>
 
-![Schematic](https://raw.githubusercontent.com/ltloc115/Capstone/master/img.png)
+![Schematic](https://raw.githubusercontent.com/ltloc115/Capstone/master/newSchematic.png)
